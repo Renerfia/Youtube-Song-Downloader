@@ -27,3 +27,16 @@ Install dependencies using `pip`:
 
 ```bash
 pip install -r requirements.txt
+pip install pytubefix tqdm
+python downloader.py
+
+📂 Output
+All audio files will be saved in a folder named:
+
+bash
+Copy
+Edit
+./downloads/
+🧑‍💻 Author
+Made with 💙 by Renerfia
+🔗 GitHub: @Renerfia
