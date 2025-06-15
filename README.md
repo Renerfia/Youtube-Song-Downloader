@@ -26,7 +26,9 @@
 Install dependencies using `pip`:
 
 pip install -r requirements.txt
-pip install pytubefix tqdm
+
+## How to run:
+
 python downloader.py
 
 📂 Output
