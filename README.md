@@ -31,9 +31,9 @@ pip install -r requirements.txt
 
 python downloader.py
 
-📂 Output
+##📂 Output
 All audio files will be saved in a folder named:./downloads/
-🧑‍💻 Author
+##🧑‍💻 Author
 Made with 💙 by Renerfia
 🔗 GitHub: @Renerfia
 ```bash
